@@ -2,6 +2,8 @@
 
 ### Senior Flutter Developer | Cross-Platform Solutions | Scalable App Development
 
+**Senior Flutter Developer with 6+ years** of specialized experience in architecting and deploying high-performance, scalable mobile applications for leading tech organizations including **CrawlApps Technologies, Rentech Digital, and Androworld**, currently providing end-to-end mobile solutions as an independent consultant. Expert in **Flutter, Dart, Kotlin, and Java** with comprehensive **UI/UX design proficiency** using **Figma and Adobe XD**, delivering technically robust applications with exceptional user engagement through optimized state management and clean architecture implementations.
+
 - 🔭 I'm currently working on **a new flutter project**
 
 - 🌱 I'm currently learning **python**
